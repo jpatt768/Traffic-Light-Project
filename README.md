@@ -1,0 +1,2 @@
+# Traffic-Light-Project
+First assessed project with RMIT. The aim of this project was to use what we had learned and create a simple app where the user could push a button and the app would move through the different phases of a traffic light with an explanation. I received full marks for this project and learned how a switch statement works but in the future would perhaps build it with an infinite loop instead.
